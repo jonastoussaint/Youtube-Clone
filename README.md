@@ -29,6 +29,15 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
+
+### `npm install @material-ui/core`
+
+This will allow you to add UI elements to your project for styling. 
+
+### `npm install @material-ui/icons`
+
+This will allow you to get the icons similar to your the Youtube platform. 
+
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
