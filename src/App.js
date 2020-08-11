@@ -1,24 +1,24 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Header from './Header';
+import Sidebar from './Sidebar';
+import RecommendedVideos from './RecommendedVideos';
 
 function App() {
   return (
+    //Bem Class naming convention
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/*<h1>Lets Build a Youtube Clone</h1>*/}
+      {/*Header Componets*/}
+      <Header />
+      <div className="app__page">
+        <Sidebar />
+        <RecommendedVideos />
+        {/*Sidebar Componets*/}
+
+      {/*Recommended Video Componets*/}
+      </div>
+      
     </div>
   );
 }

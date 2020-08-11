@@ -1,0 +1,34 @@
+.sidebarRow {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.sidebarRow__icons {
+    color: #606060;
+    font-size: large !important;
+}
+
+.sidebarRow__title {
+    flex: 1; /*Use as much room in that container*/
+    margin-left: 20px;
+    font-size: 12px;
+    font-weight: 500px;
+}
+
+/*highlights icons when mouse pointer hovers over it*/
+.sidebarRow:hover {
+    background-color: lightgray;
+    cursor: pointer; 
+}
+
+/*When the mouse pointer is hovered go to the icon and change the 
+color to red*/
+.sidebarRow:hover > .sidebarRow__icons {
+    color: red;
+}
+
+/*When the mouse pointer is hovered go to the icon and make it BOLD text*/
+.sidebarRow:hover > .sidebarRow__title {
+    font-weight: bold;
+}

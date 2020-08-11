@@ -1,0 +1,50 @@
+ 
+.header {
+    display: flex; /*Display: flex; --Puts Everything into a row*/
+    align-items: center; /*Aligns everyting in the middle*/
+    justify-content: space-between; /*Put spaces between the children*/
+    padding: 20px;
+    position: sticky;
+    top: 0; /*while its sticky stick to the top*/
+    z-index: 100; /*while always be on top*/
+    background-color: white;
+}
+
+.header__logo {
+    height: 25px;
+    object-fit: contain;
+    margin-left: 20px;
+}
+
+.header__left {
+    
+}
+
+.header__inputButton {
+    width: 50px !important;
+    background-color: #fafafa;
+    border-left: 1px solid lightgray;
+    color: gray;
+}
+
+.header__input {
+    display: flex;
+    align-items: center; 
+    width: 40%;
+    border: 1px solid lightgray;
+}
+
+/*Target the input child of header__input*/
+.header__input > input{
+    flex: 1; /*Use as much room inside of container*/
+    border: none;
+}
+
+.header__icons {
+    display: flex;
+    align-items: center; 
+}
+
+.header__icon {
+    margin-right:  8px;
+}
