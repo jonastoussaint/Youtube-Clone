@@ -4,16 +4,17 @@
     padding: 10px 20px;
 }
 
-.sidebarRow__icons {
+.sidebarRow__icon {
     color: #606060;
     font-size: large !important;
 }
 
+/*Use as much room in that container*/
 .sidebarRow__title {
-    flex: 1; /*Use as much room in that container*/
+    flex: 1; 
     margin-left: 20px;
     font-size: 12px;
-    font-weight: 500px;
+    font-weight: 500;
 }
 
 /*highlights icons when mouse pointer hovers over it*/
@@ -24,11 +25,25 @@
 
 /*When the mouse pointer is hovered go to the icon and change the 
 color to red*/
-.sidebarRow:hover > .sidebarRow__icons {
+.sidebarRow:hover > .sidebarRow__icon {
     color: red;
 }
 
 /*When the mouse pointer is hovered go to the icon and make it BOLD text*/
 .sidebarRow:hover > .sidebarRow__title {
+   font-weight: bold;
+}
+
+.sidebarRow.selected {
+    background-color: lightgray;
+}
+
+/*If already selected chaneg the icon to red*/
+.sidebarRow.selected > .sidebarRow__icon {
+    color: red;
+}
+
+/*If already selected change the title bold*/
+.sidebarRow.selected > .sidebarRow__title {
     font-weight: bold;
 }
