@@ -45,12 +45,19 @@ This will allow you to have navigation.
 ### 'Deploy with firebase'
 
 step 1: firebase init
+
 step 2: Select Hosting
+
 step 3: Use an existing Project
+
 step 4: youtube-clone
+
 step 5: type 'build'
+
 step 6: type 'y'
+
 step 7: npm run build
+
 step 7: firebase deploy
 
 Project Console: https://console.firebase.google.com/project/clone-d86e1/overview
