@@ -22,7 +22,96 @@ function SearchPage() {
                 description="You Belong Here!!!"
             />
             <hr/>
-            <VideoRow />
+            <VideoRow 
+            views="1.4M"
+            subs="659k"
+            description="We are Software Engineers"
+            timestamp="59 seconds ago"
+            channel="SpaceX"
+            title="Starship 150M Hop Test"
+            image="https://scx2.b-cdn.net/gfx/news/hires/2020/oncestarship.jpg"
+            />
+
+            <VideoRow 
+            views="1.4M"
+            subs="659k"
+            description="We are Software Engineers"
+            timestamp="59 seconds ago"
+            channel="SpaceX"
+            title="Starship 150M Hop Test"
+            image="https://scx2.b-cdn.net/gfx/news/hires/2020/oncestarship.jpg"
+            />
+
+            <VideoRow 
+            views="1.4M"
+            subs="659k"
+            description="We are Software Engineers"
+            timestamp="59 seconds ago"
+            channel="SpaceX"
+            title="Starship 150M Hop Test"
+            image="https://scx2.b-cdn.net/gfx/news/hires/2020/oncestarship.jpg"
+            />
+
+            <VideoRow 
+            views="1.4M"
+            subs="659k"
+            description="We are Software Engineers"
+            timestamp="59 seconds ago"
+            channel="SpaceX"
+            title="Starship 150M Hop Test"
+            image="https://scx2.b-cdn.net/gfx/news/hires/2020/oncestarship.jpg"
+            />
+
+            <VideoRow 
+            views="1.4M"
+            subs="659k"
+            description="We are Software Engineers"
+            timestamp="59 seconds ago"
+            channel="SpaceX"
+            title="Starship 150M Hop Test"
+            image="https://scx2.b-cdn.net/gfx/news/hires/2020/oncestarship.jpg"
+            />
+
+            <VideoRow 
+            views="1.4M"
+            subs="659k"
+            description="We are Software Engineers"
+            timestamp="59 seconds ago"
+            channel="SpaceX"
+            title="Starship 150M Hop Test"
+            image="https://scx2.b-cdn.net/gfx/news/hires/2020/oncestarship.jpg"
+            />
+
+            <VideoRow 
+            views="1.4M"
+            subs="659k"
+            description="We are Software Engineers"
+            timestamp="59 seconds ago"
+            channel="SpaceX"
+            title="Starship 150M Hop Test"
+            image="https://scx2.b-cdn.net/gfx/news/hires/2020/oncestarship.jpg"
+            />
+
+            <VideoRow 
+            views="1.4M"
+            subs="659k"
+            description="We are Software Engineers"
+            timestamp="59 seconds ago"
+            channel="SpaceX"
+            title="Starship 150M Hop Test"
+            image="https://scx2.b-cdn.net/gfx/news/hires/2020/oncestarship.jpg"
+            />
+
+            <VideoRow 
+            views="1.4M"
+            subs="659k"
+            description="We are Software Engineers"
+            timestamp="59 seconds ago"
+            channel="SpaceX"
+            title="Starship 150M Hop Test"
+            image="https://scx2.b-cdn.net/gfx/news/hires/2020/oncestarship.jpg"
+            />
+
         </div>
     ); 
 }
