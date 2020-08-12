@@ -61,6 +61,7 @@ step 7: npm run build
 step 7: firebase deploy
 
 Project Console: https://console.firebase.google.com/project/clone-d86e1/overview
+
 Hosting URL: https://clone-d86e1.web.app
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
