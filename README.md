@@ -42,6 +42,19 @@ This will allow you to get the icons similar to your the Youtube platform.
 
 This will allow you to have navigation.
 
+### 'Deploy with firebase'
+step 1: firebase init
+step 2: Select Hosting
+step 3: Use an existing Project
+step 4: youtube-clone
+step 5: type 'build'
+step 6: type 'y'
+step 7: npm run build
+step 7: firebase deploy
+
+Project Console: https://console.firebase.google.com/project/clone-d86e1/overview
+Hosting URL: https://clone-d86e1.web.app
+
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
