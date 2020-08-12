@@ -38,6 +38,10 @@ This will allow you to add UI elements to your project for styling.
 
 This will allow you to get the icons similar to your the Youtube platform. 
 
+### `npm install react-router-dom
+
+This will allow you to have navigation.
+
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
