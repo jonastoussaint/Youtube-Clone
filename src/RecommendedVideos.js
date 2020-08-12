@@ -13,7 +13,7 @@ function RecommendedVideos() {
                 views = "2.3M"
                 timestamp="3 days ago"
                 channelImage="https://create-react-app.dev/img/logo-og.png"
-                channel="Sonny Sangha"
+                channel="Jonas Toussaint"
                 image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuwGdBM3Yjo3qVgSwl6ffeyCpTSkzlj3QenQ&usqp=CAU"/>
                 
                 <VideoCard 
@@ -21,7 +21,7 @@ function RecommendedVideos() {
                 views = "2.3M"
                 timestamp="3 days ago"
                 channelImage="https://create-react-app.dev/img/logo-og.png"
-                channel="Sonny Sangha"
+                channel="Jonas Toussaint"
                 image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuwGdBM3Yjo3qVgSwl6ffeyCpTSkzlj3QenQ&usqp=CAU"/>
 
                 <VideoCard 
@@ -29,7 +29,7 @@ function RecommendedVideos() {
                 views = "2.3M"
                 timestamp="3 days ago"
                 channelImage="https://create-react-app.dev/img/logo-og.png"
-                channel="Sonny Sangha"
+                channel="Jonas Toussaint"
                 image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuwGdBM3Yjo3qVgSwl6ffeyCpTSkzlj3QenQ&usqp=CAU"/>
 
                 <VideoCard 
@@ -37,7 +37,7 @@ function RecommendedVideos() {
                 views = "2.3M"
                 timestamp="3 days ago"
                 channelImage="https://create-react-app.dev/img/logo-og.png"
-                channel="Sonny Sangha"
+                channel="Jonas Toussaint"
                 image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuwGdBM3Yjo3qVgSwl6ffeyCpTSkzlj3QenQ&usqp=CAU"/>
 
                 <VideoCard 
@@ -45,7 +45,7 @@ function RecommendedVideos() {
                 views = "2.3M"
                 timestamp="3 days ago"
                 channelImage="https://create-react-app.dev/img/logo-og.png"
-                channel="Sonny Sangha"
+                channel="Jonas Toussaint"
                 image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuwGdBM3Yjo3qVgSwl6ffeyCpTSkzlj3QenQ&usqp=CAU"/>
 
                 <VideoCard 
@@ -53,7 +53,7 @@ function RecommendedVideos() {
                 views = "2.3M"
                 timestamp="3 days ago"
                 channelImage="https://create-react-app.dev/img/logo-og.png"
-                channel="Sonny Sangha"
+                channel="Jonas Toussaint"
                 image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuwGdBM3Yjo3qVgSwl6ffeyCpTSkzlj3QenQ&usqp=CAU"/>
 
                 <VideoCard 
@@ -61,7 +61,7 @@ function RecommendedVideos() {
                 views = "2.3M"
                 timestamp="3 days ago"
                 channelImage="https://create-react-app.dev/img/logo-og.png"
-                channel="Sonny Sangha"
+                channel="Jonas Toussaint"
                 image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuwGdBM3Yjo3qVgSwl6ffeyCpTSkzlj3QenQ&usqp=CAU"/>
 
                 <VideoCard 
@@ -69,7 +69,7 @@ function RecommendedVideos() {
                 views = "2.3M"
                 timestamp="3 days ago"
                 channelImage="https://create-react-app.dev/img/logo-og.png"
-                channel="Sonny Sangha"
+                channel="Jonas Toussaint"
                 image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuwGdBM3Yjo3qVgSwl6ffeyCpTSkzlj3QenQ&usqp=CAU"/>
 
                 <VideoCard 
@@ -77,7 +77,7 @@ function RecommendedVideos() {
                 views = "2.3M"
                 timestamp="3 days ago"
                 channelImage="https://create-react-app.dev/img/logo-og.png"
-                channel="Sonny Sangha"
+                channel="Jonas Toussaint"
                 image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuwGdBM3Yjo3qVgSwl6ffeyCpTSkzlj3QenQ&usqp=CAU"/>
 
                 <VideoCard 
@@ -85,7 +85,7 @@ function RecommendedVideos() {
                 views = "2.3M"
                 timestamp="3 days ago"
                 channelImage="https://create-react-app.dev/img/logo-og.png"
-                channel="Sonny Sangha"
+                channel="Jonas Toussaint"
                 image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuwGdBM3Yjo3qVgSwl6ffeyCpTSkzlj3QenQ&usqp=CAU"/>
 
                 <VideoCard 
@@ -93,7 +93,7 @@ function RecommendedVideos() {
                 views = "2.3M"
                 timestamp="3 days ago"
                 channelImage="https://create-react-app.dev/img/logo-og.png"
-                channel="Sonny Sangha"
+                channel="Jonas Toussaint"
                 image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuwGdBM3Yjo3qVgSwl6ffeyCpTSkzlj3QenQ&usqp=CAU"/>
 
                 <VideoCard 
@@ -101,7 +101,7 @@ function RecommendedVideos() {
                 views = "2.3M"
                 timestamp="3 days ago"
                 channelImage="https://create-react-app.dev/img/logo-og.png"
-                channel="Sonny Sangha"
+                channel="Jonas Toussaint"
                 image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuwGdBM3Yjo3qVgSwl6ffeyCpTSkzlj3QenQ&usqp=CAU"/>
 
                 <VideoCard 
@@ -109,7 +109,7 @@ function RecommendedVideos() {
                 views = "2.3M"
                 timestamp="3 days ago"
                 channelImage="https://create-react-app.dev/img/logo-og.png"
-                channel="Sonny Sangha"
+                channel="Jonas Toussaint"
                 image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuwGdBM3Yjo3qVgSwl6ffeyCpTSkzlj3QenQ&usqp=CAU"/>
 
                 <VideoCard 
@@ -117,7 +117,7 @@ function RecommendedVideos() {
                 views = "2.3M"
                 timestamp="3 days ago"
                 channelImage="https://create-react-app.dev/img/logo-og.png"
-                channel="Sonny Sangha"
+                channel="Jonas Toussaint"
                 image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuwGdBM3Yjo3qVgSwl6ffeyCpTSkzlj3QenQ&usqp=CAU"/>
 
                 <VideoCard 
@@ -125,7 +125,7 @@ function RecommendedVideos() {
                 views = "2.3M"
                 timestamp="3 days ago"
                 channelImage="https://create-react-app.dev/img/logo-og.png"
-                channel="Sonny Sangha"
+                channel="Jonas Toussaint"
                 image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuwGdBM3Yjo3qVgSwl6ffeyCpTSkzlj3QenQ&usqp=CAU"/>
             </div>
         </div>
