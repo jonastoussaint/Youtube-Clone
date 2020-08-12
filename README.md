@@ -43,6 +43,7 @@ This will allow you to get the icons similar to your the Youtube platform.
 This will allow you to have navigation.
 
 ### 'Deploy with firebase'
+
 step 1: firebase init
 step 2: Select Hosting
 step 3: Use an existing Project
